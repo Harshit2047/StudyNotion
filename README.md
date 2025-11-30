@@ -5,7 +5,7 @@
 
 
 🔗 **Live Demo:** [https://studynotionapp21.netlify.app](https://studynotionapp21.netlify.app)  
-🔗 **GitHub Repo:** [github.com/sahilpate-221s/studynotion](https://github.com/Harshit2047)
+🔗 **GitHub Repo:** [https://github.com/Harshit2047](https://github.com/Harshit2047)
 
 
 ![StudyNotion Banner](https://res.cloudinary.com/dvpulu3cc/image/upload/v1702489710/Screenshot_2023-12-13_231558_dwyhv3.png)
